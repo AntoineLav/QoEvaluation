@@ -1,0 +1,64 @@
+.signature {
+
+	text-align: right;
+}
+
+.down {
+	margin-top: 100px;
+}
+
+#tableTitle {
+
+	position: relative;
+	
+	padding: 10px;
+	
+	font-weight: bold;
+	
+	background-color: white;
+	
+	z-index: 10;
+}
+
+#form {
+
+	position: relative;
+	
+	margin: 10px;
+	padding: 20px;
+	
+	margin-top: -20px;
+	
+	border-style: solid;
+	border-color: black;
+	border-width: thin;
+	
+	z-index: 0;
+}
+
+#form h5{
+
+	margin-top: 40px;
+}
+
+.input.text, input, fieldset {
+
+	margin: 10px;
+}
+
+label {
+	
+	display: inline;
+	
+	margin-right: 20px;
+}
+
+.submit {
+
+	margin-top: 20px;
+}
+
+.message {
+
+	color: red;
+}
